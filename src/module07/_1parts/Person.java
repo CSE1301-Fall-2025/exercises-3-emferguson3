@@ -3,6 +3,7 @@ package module07._1parts;
 public class Person 
 {
      // instance variables 
+     // "has a"
      private String name;
      private String email;
      private String phoneNumber;

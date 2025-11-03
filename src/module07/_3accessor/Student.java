@@ -19,6 +19,14 @@ public class Student
       return id + ": " + name + ", " + email;
     }
     
+    public int getId(){
+      return id;
+    }
+
+    public void setId(int newId){
+      id = newId;
+    }
+
     // main method for testing
     public static void main(String[] args)
     {
